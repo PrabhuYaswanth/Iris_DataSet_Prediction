@@ -14,7 +14,6 @@ Iris Versicolor
 Iris Virginica
 📊 Dataset
 
-![image alt](https://github.com/PrabhuYaswanth/Iris_DataSet_Prediction/blob/main/Screenshot%202026-06-19%20221329.png?raw=true)
 
 The Iris dataset contains:
 
@@ -46,3 +45,6 @@ Logistic Regression
 📈 Results
 
 The model achieved approximately 97% accuracy on the dataset.
+
+![image alt](https://github.com/PrabhuYaswanth/Iris_DataSet_Prediction/blob/main/Screenshot%202026-06-19%20221329.png?raw=true)
+
